@@ -1,3 +1,5 @@
+This is a fork of [David Sandberg](https://github.com/davidsandberg)'s Facenet repository. Tuning it to work on Nvidia Jetson TX2.
+
 # Face Recognition using Tensorflow [![Build Status][travis-image]][travis]
 
 [travis-image]: http://travis-ci.org/davidsandberg/facenet.svg?branch=master
